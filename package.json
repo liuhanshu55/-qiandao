@@ -1,0 +1,12 @@
+{
+  "name": "yijiange-signin",
+  "version": "1.0.0",
+  "description": "弈剑阁武术协会 · 每日签到系统（多人共享）",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

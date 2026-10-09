@@ -1,0 +1,12 @@
+# 数据文件（含成员名单、签到记录、管理密码，切勿提交到公开仓库）
+data.json
+data.json.tmp
+
+# 依赖与日志
+node_modules/
+*.log
+npm-debug.log*
+
+# 系统文件
+.DS_Store
+Thumbs.db
